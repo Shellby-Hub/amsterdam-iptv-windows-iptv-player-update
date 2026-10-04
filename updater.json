@@ -1,0 +1,12 @@
+{
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "url":  "https://github.com/Shellby-Hub/amsterdam-iptv-windows-iptv-player-update/releases",
+                                             "sha256":  "",
+                                             "signature":  ""
+                                         }
+                  },
+    "pub_date":  "2026-10-04T17:00:00Z",
+    "version":  "0.3.17",
+    "notes":  "Amsterdam IPTV v0.3.17 Initial Release"
+}
