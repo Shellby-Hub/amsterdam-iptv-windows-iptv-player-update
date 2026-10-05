@@ -1,12 +1,13 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "url":  "https://github.com/Shellby-Hub/amsterdam-iptv-windows-iptv-player-update/releases",
-                                             "sha256":  "",
-                                             "signature":  ""
+                                             "url":  "https://github.com/Shellby-Hub/amsterdam-iptv-windows-iptv-player-update/releases/download/v0.3.18/Amsterdam.IPTV.-.Windows.Player_0.3.18_x64-setup.exe",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFRLaFR2bnB2cCtqTTdhdStoYUJMTkhPK2lXRjlJalJzQmxBM2ZCQTZyelhXQloxdm90RGlscU12KzhON0U1WlJQQnYvYk91c2I2azFNSDMyK0FBYzYwSDRFY1dRZEFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTkzNjQ3CWZpbGU6QW1zdGVyZGFtIElQVFYgLSBXaW5kb3dzIFBsYXllcl8wLjMuMThfeDY0LXNldHVwLmV4ZQpqY0U3QzQ1blVqMnMwNVplUU5wL1V3N0hDbjBiQXVtUXdnUXJrM25adjcwaTRycXRNd2g5bHRRT3dJdEJBOFZGQ2NORUxpMDJxZUh0YzEyRlhCNk1BUT09Cg==",
+                                             "sha256":  "41827623583caf1a1b77f76b4af44f927b4a0f314e43f1cf84e5e71bcc5a92bf",
+                                             "size":  86210230
                                          }
                   },
-    "pub_date":  "2026-10-04T17:00:00Z",
-    "version":  "0.3.17",
-    "notes":  "Amsterdam IPTV v0.3.17 Initial Release"
+    "pub_date":  "2026-10-05T12:48:24Z",
+    "version":  "0.3.18",
+    "notes":  "AMSTERDAM IPTV v0.3.18: Almanca, Ä°ngilizce, TÃ¼rkÃ§e 3 dilli tam destek, yeni logo entegrasyonu ve kalÄ±cÄ± dil hafÄ±zasÄ±."
 }
