@@ -1,13 +1,13 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "url":  "https://github.com/Shellby-Hub/amsterdam-iptv-windows-iptv-player-update/releases/download/v0.3.19/Amsterdam.IPTV.-.Windows.Player_0.3.19_x64-setup.exe",
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFRLaFR2bnB2cDJEbW9KejM5WGt3K3ZoczEzR3NVb2Rzbzd1cDZoVUMyamhqbzBtUzFuYm92RmZWWGhsSXpFTWc1b3g3c0FtbjhEMXlDUjc2L2xqSW91a21hZmppZFFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzA4NTA5CWZpbGU6QW1zdGVyZGFtIElQVFYgLSBXaW5kb3dzIFBsYXllcl8wLjMuMTlfeDY0LXNldHVwLmV4ZQpleEVuNXAyZS9pTWk5NFIzbDc5c0lXSUs1REdiVUR5MkRQbUdNNXgyL2k3M1JORHg2NzJyZ2lkZDhZamxsamM2THZ1dGFRKzdXYWprbTlMUGlvalNEdz09Cg==",
-                                             "sha256":  "ae837fc22585fcd349a38c03e62cfbbdada662927c79eed673db9d9bea070731",
-                                             "size":  86201853
+                                             "url":  "https://github.com/Shellby-Hub/amsterdam-iptv-windows-iptv-player-update/releases/download/v0.3.20/Amsterdam.IPTV.-.Windows.Player_0.3.20_x64-setup.exe",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFRLaFR2bnB2cC9XdHc2UVhmY2FmZ1NXMXVWOTFjbEN1SzlTYVQxblF0YlNXWklkOEpFOGtzWXlFK0JwNWI3WmNQTVF6alFTM1U0Q1lBS0NOcXBqTG1mVVJZalI3UmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDM1NDI5CWZpbGU6QW1zdGVyZGFtIElQVFYgLSBXaW5kb3dzIFBsYXllcl8wLjMuMjBfeDY0LXNldHVwLmV4ZQpma2dnVjhkWXJxUzNINHNlc1ZqaXZ6QzhRU01tcjR2SHhlNnYwYlhTZWJNaE5ydnAwVU9id3UyMk5rSFpkR3djY0VLZ2Z0SVhuOGNnd04rOFdLUGhEQT09Cg==",
+                                             "sha256":  "02270b6b2618f4ef997c8af4673c0c0139ec99d1933a79a1cde82fc8575dacfd",
+                                             "size":  86213034
                                          }
                   },
-    "pub_date":  "2026-10-06T20:41:51Z",
-    "version":  "0.3.19",
-    "notes":  "AMSTERDAM IPTV v0.3.19: Hiz, stabilite, kapali kanal aninda algilama ve baglanti optimizasyonlari."
+    "pub_date":  "2026-10-19T21:43:50Z",
+    "version":  "0.3.20",
+    "notes":  "AMSTERDAM IPTV v0.3.20: Hiz, stabilite, kapali kanal aninda algilama ve baglanti optimizasyonlari."
 }
