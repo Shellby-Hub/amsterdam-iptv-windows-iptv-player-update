@@ -1,13 +1,13 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "url":  "https://github.com/Shellby-Hub/amsterdam-iptv-windows-iptv-player-update/releases/download/v0.3.22/Amsterdam.IPTV.-.Windows.Player_0.3.22_x64-setup.exe",
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFRLaFR2bnB2cDVMWEU2MFVBeklja0JpdjNTZXZjMWxNNGJKbnkrYittRFNaYnNPakJDVEppbXhrTFd3Z2x3VDFjQUphNHZiN0gyanRGZnZhZ0FxQmdnQjZzKzlQM1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzMxNDgwCWZpbGU6QW1zdGVyZGFtIElQVFYgLSBXaW5kb3dzIFBsYXllcl8wLjMuMjJfeDY0LXNldHVwLmV4ZQpDeXVvMWhoRm9KTkg4V1VTNFZ2azZIdkxmclVDeXFYUkJmNzYxQkJwL0syM2IvOVIyWUFxTGpQc2dsYVgzdkQ5bzZkVmk3Y3RPT0hHY0RKVW5kZVVDdz09Cg==",
-                                             "sha256":  "81096473dd0c4465f55ed94f6e5a25306c9dd1c826d82483cf200afc8a40f511",
-                                             "size":  85899370
+                                             "url":  "https://github.com/Shellby-Hub/amsterdam-iptv-windows-iptv-player-update/releases/download/v0.3.23/Amsterdam.IPTV.-.Windows.Player_0.3.23_x64-setup.exe",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFRLaFR2bnB2cDB5WWZnNUxqc25qZGtGYlo2N1ZRbUF0L2FLbVJSZG1mK0hwU0RFdk9UaWNFR0QxaEFBSXRLWm1iT2hObE80bHMyQjVDTGtrV09wb01FSVdFZ2hvSlFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Nzc4NTUyCWZpbGU6QW1zdGVyZGFtIElQVFYgLSBXaW5kb3dzIFBsYXllcl8wLjMuMjNfeDY0LXNldHVwLmV4ZQpkTmgrQ29kTFR6NkV4aTZSLytQUEFMOEVncTFGdThrb3pHWHpXV05HMVlySk85VVVtMnlTVkh0amlFUXZBZnpOK0svRTE5SVIwVUhUbzhyL0JzcGxEUT09Cg==",
+                                             "sha256":  "b6612579a6a61bdf0aeaf31cbba0b2a14a1c657dd62fc14961066515759a63ab",
+                                             "size":  85910185
                                          }
                   },
-    "pub_date":  "2026-11-15T11:31:20Z",
-    "version":  "0.3.22",
-    "notes":  "AMSTERDAM IPTV v0.3.22: Oynatici kapatma (\u0027X\u0027) ve ESC tek tik optimizasyonu, shuffle odak ve watchdog kararliligi."
+    "pub_date":  "2026-11-16T00:35:54Z",
+    "version":  "0.3.23",
+    "notes":  "AMSTERDAM IPTV v0.3.23: Oynatici kapatma (\u0027X\u0027) ve ESC tek tik optimizasyonu, shuffle odak ve watchdog kararliligi."
 }
